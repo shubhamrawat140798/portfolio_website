@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "title": "Languages",
+      "skills": ["Java", "JavaScript", "Python (Basic)"]
+    },
+    {
+      "title": "Frontend",
+      "skills": ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"]
+    },
+    {
+      "title": "Backend",
+      "skills": [
+        "Spring Boot",
+        "Spring Framework",
+        "Node.js",
+        "REST APIs",
+        "Microservices",
+        "Hibernate",
+        "JPA"
+      ]
+    },
+    {
+      "title": "Databases",
+      "skills": ["PostgreSQL", "MySQL", "Redis", "FAISS / vector databases"]
+    },
+    {
+      "title": "Messaging",
+      "skills": ["Apache Kafka"]
+    },
+    {
+      "title": "Cloud and DevOps",
+      "skills": ["AWS", "Docker", "Jenkins", "Git", "CI/CD"]
+    },
+    {
+      "title": "AI and GenAI",
+      "skills": [
+        "Large Language Models (LLMs)",
+        "Retrieval-Augmented Generation (RAG)",
+        "Embeddings",
+        "Offline LLMs",
+        "LLaMA",
+        "DeepSeek",
+        "Granite"
+      ]
+    },
+    {
+      "title": "Tools and Practices",
+      "skills": [
+        "Jira",
+        "Confluence",
+        "Agile/Scrum",
+        "Unit Testing",
+        "Debugging",
+        "Code Reviews"
+      ]
+    }
+  ]
+}

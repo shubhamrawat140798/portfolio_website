@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "title": "RAG-Based Knowledge Assistant",
+      "problem": "Teams need accurate answers grounded in internal knowledge without sending proprietary data to external model APIs.",
+      "description": "A proof-of-concept retrieval-augmented generation assistant that embeds documents into a vector store, retrieves the most relevant chunks for a query, and generates responses with an offline LLM. The flow keeps knowledge grounding and generation in a controlled application interface.",
+      "technologies": [
+        "Offline LLM",
+        "Embeddings",
+        "Vector database",
+        "Secure application interface"
+      ],
+      "github": null,
+      "demo": null,
+      "image": null
+    },
+    {
+      "title": "Library Management System",
+      "problem": "Libraries need a reliable way to manage catalogs, members, and borrowing workflows through a modern web interface.",
+      "description": "A full-stack application with a React.js frontend and Spring Boot backend backed by PostgreSQL. Covers core library operations such as catalog management and service APIs for client interactions.",
+      "technologies": ["React.js", "Spring Boot", "PostgreSQL"],
+      "github": null,
+      "demo": null,
+      "image": null
+    },
+    {
+      "title": "Chat Messenger",
+      "problem": "Users need real-time messaging supported by a scalable backend rather than a single monolithic service.",
+      "description": "A messaging application built with Spring Boot microservices, separating concerns across services for messaging workflows, API boundaries, and maintainable backend structure.",
+      "technologies": ["Spring Boot", "Microservices"],
+      "github": null,
+      "demo": null,
+      "image": null
+    },
+    {
+      "title": "Company Website",
+      "problem": "The business needed a professional, responsive web presence that could be deployed and maintained efficiently.",
+      "description": "Designed and deployed a company website using a modern React/Next.js stack with Tailwind CSS styling and Vercel hosting. Focused on clear structure, responsive layouts, and a maintainable frontend codebase.",
+      "technologies": ["Next.js", "React", "Tailwind CSS", "Vercel"],
+      "github": null,
+      "demo": null,
+      "image": null
+    }
+  ]
+}

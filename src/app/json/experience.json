@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "title": "Technology Officer",
+      "company": "Pravartee Sales",
+      "period": "April 2025 – Present",
+      "highlights": [
+        "Develop enterprise applications and AI-enabled solutions.",
+        "Work on backend services, APIs, full-stack components, and LLM-powered applications.",
+        "Built a retrieval-augmented generation proof of concept using embeddings, a vector database, and an offline LLM.",
+        "Developed and deployed the company website.",
+        "Worked on automation and web-scraping solutions."
+      ]
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "Tecnia Institute of Advanced Studies",
+      "period": "September 2024 – April 2025",
+      "highlights": [
+        "Taught Java, object-oriented programming, Spring Boot, SQL, React.js, and full-stack development.",
+        "Led robotics-related educational projects and mentored students."
+      ]
+    },
+    {
+      "title": "Senior Analyst, Software Engineering",
+      "company": "NatWest Group",
+      "period": null,
+      "highlights": [
+        "Worked on enterprise payment services.",
+        "Developed and maintained Java and Spring Boot backend services and REST APIs.",
+        "Worked with React.js, PostgreSQL, and Liquibase.",
+        "Investigated production issues, improved application usability, and collaborated with cross-functional Agile teams.",
+        "Contributed to code reviews, testing, debugging, and accessibility improvements."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "SEWESS",
+      "period": null,
+      "highlights": [
+        "Developed Java and Spring Boot services.",
+        "Worked with React, Tailwind CSS, Kafka, and PostgreSQL.",
+        "Contributed to API development, testing, and debugging."
+      ]
+    },
+    {
+      "title": "Java Developer",
+      "company": "Finitive Techmark",
+      "period": null,
+      "highlights": [
+        "Developed and maintained microservices and REST APIs.",
+        "Resolved production defects and contributed to code quality improvements."
+      ]
+    }
+  ]
+}

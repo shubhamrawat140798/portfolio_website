@@ -1,0 +1,18 @@
+{
+  "name": "Shubham Rawat",
+  "role": "Full Stack Developer | Java | Spring Boot | Node.js | React",
+  "headline": "Full Stack Developer | Java | Spring Boot | Node.js | React",
+  "intro": "I’m a software engineer experienced in building enterprise applications, backend services, REST APIs, microservices, and responsive web applications. I work across backend and frontend technologies and have additional experience developing AI-enabled applications and retrieval-augmented generation solutions.",
+  "about": "I am a full stack software engineer focused on building reliable enterprise applications—from backend services and REST APIs to responsive web UIs. My background spans Java and Spring Boot microservices, React/Next.js frontends, and production debugging in Agile teams. More recently, I have applied the same engineering discipline to AI-enabled products, including retrieval-augmented generation prototypes that combine embeddings, vector search, and offline LLMs. I care about clear API design, maintainable code, thoughtful testing, and shipping software that holds up in production.",
+  "profileImage": "/profile.png",
+  "resumePath": "/resume.pdf",
+  "links": {
+    "github": "https://github.com/shubhamrawat140798",
+    "linkedin": "https://linkedin.com/in/shubham-rawat1407",
+    "portfolio": "https://shubhamportfoliowebsite.vercel.app"
+  },
+  "seo": {
+    "title": "Shubham Rawat | Full Stack Developer (Java, Spring Boot, React)",
+    "description": "Portfolio of Shubham Rawat — Full Stack Developer experienced in enterprise applications, Spring Boot microservices, REST APIs, React/Next.js, and AI-enabled solutions including RAG."
+  }
+}
